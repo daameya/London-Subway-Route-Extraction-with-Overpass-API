@@ -1,4 +1,4 @@
-# 🚇Subway Network Visualisation with Overpass API, Networkx and Folium
+# Subway Network Visualisation with Overpass API, Networkx and Folium
 
 Explore and visualize subway networks from various European cities using data extracted from OpenStreetMap via the Overpass API. This project provides an interactive way to analyze public transport systems through NetworkX graphs and Folium maps.
 
