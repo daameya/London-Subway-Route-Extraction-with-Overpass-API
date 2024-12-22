@@ -15,7 +15,7 @@ Whether you're a data enthusiast or a transport geek, this project will help you
 - [What You'll Learn](#what-youll-learn)
 - [Getting Started](#getting-started)
 
-## 🌍 Maps for Subway Networks
+## Maps for Subway Networks
 **Interactive Maps**
 ### 📍London
 [![London](assets/London-subway.png)]()
@@ -63,4 +63,4 @@ pip install -r requirements.txt
 
 4. Use the (city)_subway_network.html to view interactive maps
 
-## [Back Up](#🚇Subway-Network-Visualisation-with-Overpass-API,-Networkx-and-Folium)
+## [Back Up](#subway-network-visualisation-with-overpass-api,-networkx-and-folium)
